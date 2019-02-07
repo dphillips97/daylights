@@ -17,6 +17,6 @@ There's a lot that I can do with this data:
 
 **Gallery**
 
-![Heatmap](https://github.com/dphillips97/daylights/daylight_times/daylight_1.png)
+![Heatmap](https://github.com/dphillips97/daylights/blob/master/daylight_times/daylight_1.png)
 
-![Std dev graph](https://github.com/dphillips97/daylights/daylight_times/daylight_2.png)
+![Std dev graph](https://github.com/dphillips97/daylights/blob/master/daylight_times/daylight_2.png)
