@@ -6,7 +6,7 @@ This notebook shows a heatmap of days of the year (2019), color coded by day len
 
 **Goal**
 
-I wanted to continue learning to use Pandas with real-world data. I also wanted to practive data visualization with different graphing styles - in this case, a heatmap
+I wanted to continue learning to use Pandas with real-world data. I also wanted to practice data visualization with different graphing styles - in this case, a heatmap
 
 **Future directions**
 
